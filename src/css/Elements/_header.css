@@ -1,0 +1,28 @@
+.header{
+    height: 10vh;
+    background: rgb(11, 11, 46);
+    color: #fff;
+    padding: 10px 40px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.userName{
+    margin-right: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.navBar__item{
+    color: #bdb9b9;
+    cursor: pointer;
+}
+.addEventBtn{
+    height: 40px;
+    width: 300px;
+    background: rgb(40, 155, 88);
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
